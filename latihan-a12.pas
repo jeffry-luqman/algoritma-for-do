@@ -1,10 +1,10 @@
 {
 hasilnya:
-X O X O X
-X O X O X
-X O X O X
-X O X O X
-X O X O X
+        1
+      1 2
+    1 2 3
+  1 2 3 4
+1 2 3 4 5
 }
 program latihan;
 var
@@ -14,10 +14,10 @@ begin
 	begin
 		for k := 1 to 5 do 
 		begin
-			if k mod 2 = 1 then
-				write('X', ' ')
+			if b + k > 5 then
+				write(b + k - 5, ' ')
 			else
-				write('O', ' ');
+				write('  ');
 		end;
 		writeln;
 	end;

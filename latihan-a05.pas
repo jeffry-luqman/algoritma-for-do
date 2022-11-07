@@ -8,13 +8,14 @@ hasilnya:
 }
 program latihan;
 var
-	b, k: Integer;
+	b, k, v : Integer;
 begin
 	for b := 0 to 4 do 
 	begin
 		for k := 0 to 4 do 
 		begin
-			write(abs(b-k), ' ');
+			v := abs(b - k);
+			write(v, ' ');
 		end;
 		writeln;
 	end;

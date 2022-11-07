@@ -8,13 +8,13 @@ X X X X X
 }
 program latihan;
 var
-	b, k: Integer;
+	b, k : Integer;
 begin
 	for b := 1 to 5 do 
 	begin
 		for k := 1 to 5 do 
 		begin
-			if b>= k then
+			if b >= k then
 				write('X', ' ')
 			else
 				write('O', ' ');

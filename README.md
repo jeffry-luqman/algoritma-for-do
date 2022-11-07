@@ -116,15 +116,15 @@
 	1 2 
 	1 
 	```
-- latihan-a08.pas (todo)
+- latihan-a08.pas
 	```
 	0  1  1  1  1
-	2  0  2  2  2 
-	3  6  0  3  3 
-	4  8 12  0  4 
-	5 10 15 20  0
+	2  0  2  2  2
+	3  6  0  3  3
+	4  8  12 0  4
+	5  10 15 20 0
 	```
-- latihan-a09.pas (todo)
+- latihan-a09.pas
 	```
 	1
 	1 2
@@ -132,7 +132,7 @@
 	1 2 3 4
 	1 2 3 4 5
 	```
-- latihan-a10.pas (todo)
+- latihan-a10.pas
 	```
 	5 4 3 2 1
 	5 4 3 2
@@ -140,7 +140,7 @@
 	5 4
 	5
 	```
-- latihan-a11.pas (todo)
+- latihan-a11.pas
 	```
 	        5
 	      5 4
@@ -148,7 +148,7 @@
 	  5 4 3 2
 	5 4 3 2 1
 	```
-- latihan-a12.pas (todo)
+- latihan-a12.pas
 	```
 	        1
 	      1 2
@@ -156,7 +156,7 @@
 	  1 2 3 4
 	1 2 3 4 5
 	```
-- latihan-a13.pas (todo)
+- latihan-a13.pas
 	```
 	1       5
 	  2   4  
@@ -164,13 +164,13 @@
 	  2   4  
 	1       5
 	```
-- latihan-a14.pas (todo)
+- latihan-a14.pas
 	```
 	5 4 3 2 1
 	5 4 3 2 1
 	5 4 3 2 1
 	```
-- latihan-a15.pas (todo)
+- latihan-a15.pas
 	```
 	5
 	5 4
@@ -178,7 +178,7 @@
 	5 4 3 2
 	5 4 3 2 1
 	```
-- latihan-a16.pas (todo)
+- latihan-a16.pas
 	```
 	1 2 3 4 5
 	  1 2 3 4

@@ -8,13 +8,13 @@ hasilnya:
 }
 program latihan;
 var
-	b, k: Integer;
+	b, k : Integer;
 begin
 	for b := 1 to 5 do 
 	begin
 		for k := 1 to 5 do 
 		begin
-			write(b+k-1, ' ')
+			write(b + k - 1, ' ');
 		end;		
 		writeln;
 	end;

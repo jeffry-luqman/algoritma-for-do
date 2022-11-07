@@ -1,20 +1,20 @@
 {
 hasilnya:
-5 5 5 5 5 
-4 4 4 4 
-3 3 3 
-2 2 
 1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
 }
 program latihan;
 var
 	b, k : Integer;
 begin
-	for b := 5 downto 1 do 
+	for b := 1 to 5 do 
 	begin
 		for k := 1 to b do 
 		begin
-			write(b, ' ');
+			write(k, ' ');
 		end;
 		writeln;
 	end;

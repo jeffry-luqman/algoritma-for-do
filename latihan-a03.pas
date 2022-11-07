@@ -8,7 +8,7 @@ X O X O X
 }
 program latihan;
 var
-	b, k: Integer;
+	b, k : Integer;
 begin
 	for b := 1 to 5 do 
 	begin

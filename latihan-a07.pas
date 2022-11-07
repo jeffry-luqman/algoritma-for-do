@@ -8,7 +8,7 @@ hasilnya:
 }
 program latihan;
 var
-	b, k: Integer;
+	b, k : Integer;
 begin
 	for b := 5 downto 1 do 
 	begin
