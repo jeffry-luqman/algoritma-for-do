@@ -1,0 +1,7 @@
+# ignore all kind of files
+*
+
+# except .gitignore, .pas & .md files
+!*.gitignore
+!*.pas
+!*.md
