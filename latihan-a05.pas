@@ -1,5 +1,4 @@
 {
-hasilnya:
 0 1 2 3 4 
 1 0 1 2 3 
 2 1 0 1 2 
@@ -10,9 +9,9 @@ program latihan;
 var
 	b, k, v : Integer;
 begin
-	for b := 0 to 4 do 
+	for b := 1 to 5 do 
 	begin
-		for k := 0 to 4 do 
+		for k := 1 to 5 do 
 		begin
 			v := abs(b - k);
 			write(v, ' ');

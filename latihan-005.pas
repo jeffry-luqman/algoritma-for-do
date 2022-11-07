@@ -1,5 +1,4 @@
 {
-hasilnya:
 X O O O O 
 X X O O O 
 X X X O O 
